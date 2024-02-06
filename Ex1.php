@@ -12,5 +12,6 @@ $today = date("m.d.y");
    <?php
       echo "<p>".$today."</p>";
    ?>
+   <p>Et je teste git dans VScode </p>
 </body>
 </html>
